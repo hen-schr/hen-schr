@@ -4,7 +4,6 @@
 - 💞️ I’m looking to collaborate on finding feasable, fully digital RDM solutions that can be easily adapted by anyone!
 - 📫 How to reach me: henrik.schroeter@uni-rostock.de
 - 😄 Pronouns: he / him
-- ⚡ Fun fact: ...
 
 <!---
 hen-schr/hen-schr is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
